@@ -1640,6 +1640,13 @@ img#wpstats {
 	overflow: hidden;
 }
 
+.entry-footer.post-footer{
+	margin-bottom: unset;
+}
+.post{
+	margin-bottom: 20px;
+}
+
 /* ----- Entry Meta Link Button ----- */
 .entry-footer a.more-link {
 	float: right;
